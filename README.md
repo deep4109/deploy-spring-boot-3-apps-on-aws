@@ -1,19 +1,6 @@
 # Deploy Spring Boot 3 Java Apps Online to Amazon Cloud (AWS)
 
-Source code for the course: [Deploy Spring Boot 3 Java Apps Online to Amazon Cloud (AWS)](http://www.luv2code.com/deploy-spring-boot-3-github)
-
-If you have questions or need tech support, post your questions to the [classroom discussion forum](https://www.udemy.com/course/deploy-java-spring-apps-online/learn/v4/questions).
-
-Happy coding!
-
 [<img src="images/deploy-spring-spring-boot-3-to-aws-small.png">](http://www.luv2code.com/deploy-spring-boot-3-github)
-
-&#8287;
-## Spring Boot Road Map - Learning Path
-
-Here is a Spring Boot Learning Path and Roadmap to help you learn more about Spring Boot. These are links to luv2code courses on Udemy. You can purchase the courses to further your studies.
-
-I'd recommend the following road map:
 
 ### Core Courses
 1. [Java Programming Introduction for Beginners](https://www.udemy.com/course/java-intro-for-beginners/?referralCode=325F0EA33466DA1D8710)
@@ -34,16 +21,3 @@ This is an intermediate level course that includes four REST API projects:
 For full stack projects, you have the choice of either Angular or React. Pick the one that you like the best.
 1. [Full Stack: Angular and Spring Boot](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?referralCode=2264F90C65A86316BB6B)
 1. [Full Stack: React and Spring Boot](https://www.udemy.com/course/full-stack-react-and-java-spring-boot-the-developer-guide/?referralCode=4325FA579FD3D313E28D)
-
-&#8287;
-## More luv2code Courses
-For more courses, visit the [luv2code website](https://www.luv2code.com). 
-
-I'm looking forward to seeing you in other luv2code courses! 
-
-&#8287;
-## Follow luv2code on Social Media
-* [YouTube Channel - luv2code](https://www.youtube.com/user/luv2codetv?sub_confirmation=1)
-* [Facebook Page - luv2code](https://www.facebook.com/luv2codetv)
-* [X (Twitter) - luv2code](https://twitter.com/luv2codetv)
-* [LinkedIn](https://www.linkedin.com/in/chaddarby/)
